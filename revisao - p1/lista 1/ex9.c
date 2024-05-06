@@ -1,0 +1,1 @@
+// Suponha que  x->esq->chave  ≤  x->chave  para cada nó x dotado de filho esquerdo  e  x->chave  ≤  x->dir->chave  para cada nó x dotado de filho direito.  Essa árvore é de busca?
